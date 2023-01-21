@@ -8,4 +8,4 @@ snscrape==0.5.0.20230113
 streamlit==1.17.0
 streamlit_lottie==0.0.3
 textblob==0.17.1
-streamlit==1.16.0
+
