@@ -1,7 +1,11 @@
 # Twitter_sentiment_analysis
 [YOU CAN ACCESS THE WEB APPLICATION BY CLICKING THIS LINK](https://datascientist88-twitter-sentiment-ana-streamlitsentiment-laa2dt.streamlit.app/)
 # paper on my application [Twitter Sentiment Analysis.pdf](https://github.com/Datascientist88/Twitter_sentiment_analysis/files/10472162/Twitter.Sentiment.Analysis.pdf)
-Introduction :  
+<p><img align="center" alt="gif" src="https://user-images.githubusercontent.com/119727641/214800363-f01aa386-cb51-4516-a47e-bf2b8183ff6d.gif" width="1800" height="500" /></p>
+
+
+Introduction :
+
 This idea began two weeks ago when I began to think about a project in which I can apply deep learning concepts, in particular Natural Language processing or NLP and one of the best places to extract texts and analyze them is the social media especially twitter since it has a wide range of applications in marketing and so on  
 I began to think about using an API to get connected to twitter and streamline tweets from twitter however this task was particularly challenging since it required my  twitter account to be verified using my Saudi mobile number but I was confronted with another challenge which is the twitter did not accept my Saudi number  presumably because they have restrictions on Saudi numbers oddly enough , fortunately I managed to overcome this frustrating experience by contacted a friend of mine who  lives in the UK and have had my account authenticated from there , then I managed to developed an API and received the consumer key , consumer secret , access token and access token secret which are incredibly sensitive pieces of information and they raised confidentially concerns in my mind as to how I will deploy this app on the cloud once its ready for deployment once I got to grips with this issue I realized that I will  only be granted a limited access to tweets consequently I decided to rub my hands of this idea and this about another way , luckily I managed to find an alternative to the use of an API  which is the use of a powerful library in python called SNSCRAPE which allowed me to get inexhaustible supply of tweets . 
 
